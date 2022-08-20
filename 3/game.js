@@ -34,7 +34,6 @@ function inputValid() {
 }
 inputValid();
 generateNumber();
-alert(number);
 guessNumber();
 function generateNumber() {
   number = [];
